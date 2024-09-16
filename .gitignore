@@ -1,0 +1,5 @@
+__pycache__
+vectorstore
+.DS_Store
+.env
+*.ipynb
